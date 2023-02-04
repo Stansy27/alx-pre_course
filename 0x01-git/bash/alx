@@ -1,5 +1,4 @@
 #!/bin/bash
-<<<<<<< HEAD
 echo "ALX School is so cool!" 
 =======
 echo "ALX School" 
@@ -7,4 +6,4 @@ update_script
 =======
 echo "ALX School"
 Stansy codes
->>>>>>> update_script
+update_script
